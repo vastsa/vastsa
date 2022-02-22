@@ -2,8 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vastsa&layout=compact&text_color=151515&bg_color=fefefe)](https://github.com/vastsa)
 
-<img src="https://q1.qlogo.cn/g?b=qq&nk=78013994&s=640" style='width: 100px;height: 100px;' id="counter">
-
 ### About me 关于我
 - 🔭 [https://github.com/vastsa](https://github.com/vastsa)
 - 🤔 [https://gitee.com/vastsa](https://gitee.com/vastsa)
