@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vastsa&layout=compact&text_color=151515&bg_color=fefefe)](https://github.com/vastsa)
 
 <p align="center">
-<img src="https://q1.qlogo.cn/g?b=qq&nk=78013994&s=640" id="counter">
+<img src="https://q1.qlogo.cn/g?b=qq&nk=78013994" id="counter">
 </p>
 
 ### About me 关于我
