@@ -1,6 +1,4 @@
-![info](https://github-readme-stats.vercel.app/api?username=vastsa&show_icons=true&hide=prs&count_private=true&theme=default_repocard&include_all_commits=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vastsa&layout=compact&text_color=151515&bg_color=fefefe)](https://github.com/vastsa)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vastsa)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About me 关于我
 - 🔭 [https://github.com/vastsa](https://github.com/vastsa)
