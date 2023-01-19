@@ -3,12 +3,9 @@
 ### Top Repositories
 
 
-<a href="https://github.com/vastsa/FileCodeBox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vastsa&repo=FileCodeBox&theme=buefy" />
-</a>
-<a href="https://github.com/vastsa/ZhiJiaoYunTool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vastsa&repo=ZhiJiaoYunTool&theme=buefy" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vastsa&repo=FileCodeBox)](https://github.com/vastsa/FileCodeBox)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vastsa&repo=ZhiJiaoYunTool)](https://github.com/vastsa/ZhiJiaoYunTool)
 
 ### About me 关于我
 - 🔭 [https://github.com/vastsa](https://github.com/vastsa)
