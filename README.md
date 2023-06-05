@@ -14,4 +14,3 @@
 - 💬 [https://www.lanol.cn](https://www.lanol.cn)
 ### Connect With Me 联系我
 - email :vast@tom.com
-- qq    :78013994
