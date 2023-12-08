@@ -2,12 +2,8 @@
 
 ### Top Repositories
 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vastsa&repo=FileCodeBox)](https://github.com/vastsa/FileCodeBox)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vastsa&repo=AIChatWeb)](https://github.com/vastsa/AIChatWeb)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vastsa&repo=ZhiJiaoYunTool)](https://github.com/vastsa/ZhiJiaoYunTool)
 
 ### About me 关于我
 - 🔭 [https://github.com/vastsa](https://github.com/vastsa)
