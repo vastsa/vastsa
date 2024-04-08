@@ -1,5 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/vastsa/count.svg)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vastsa&show_icons=true)
 
 ### Top Repositories
