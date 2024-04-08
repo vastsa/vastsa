@@ -1,4 +1,4 @@
-### Github Status
+### Github Stats
 ![Anurag's GitHub status](https://github-readme-stats.vercel.app/api?username=vastsa&show_icons=true)
 
 ### Top Repositories
