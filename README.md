@@ -5,17 +5,20 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vastsa&repo=FileCodeBox)](https://github.com/vastsa/FileCodeBox)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vastsa&repo=AIChatWeb)](https://github.com/vastsa/AIChatWeb)
-<div align="center">
+
+### About me
+- 🔭 [https://github.com/vastsa](https://github.com/vastsa)
+- 💬 [https://www.lanol.cn](https://www.lanol.cn)
+### Connect With Me
+- email :vast@tom.com
+
+<div align="center" >
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/vastsa/vastsa/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/vastsa/vastsa/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/vastsa/vastsa/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
-</div>
-
-<div align="center" >
-
 <!--  skill badge 技能徽章 -->
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -74,9 +77,3 @@
 
 </div>
 
-
-### About me 关于我
-- 🔭 [https://github.com/vastsa](https://github.com/vastsa)
-- 💬 [https://www.lanol.cn](https://www.lanol.cn)
-### Connect With Me 联系我
-- email :vast@tom.com
