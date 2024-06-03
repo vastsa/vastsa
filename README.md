@@ -4,7 +4,6 @@
 ### Top Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vastsa&repo=FileCodeBox)](https://github.com/vastsa/FileCodeBox)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vastsa&repo=AIChatWeb)](https://github.com/vastsa/AIChatWeb)
 
 ### About me
 - 🔭 [https://github.com/vastsa](https://github.com/vastsa)
