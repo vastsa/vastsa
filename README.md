@@ -1,23 +1,21 @@
-### Recently shot
+# Recently shot
 <img src="https://github.com/vastsa/vastsa/blob/main/shot.jpg?raw=true"/>
 
-### Github Stats
+# Github Stats
 ![Anurag's GitHub status](https://github-readme-stats.vercel.app/api?username=vastsa&show_icons=true)
 
-### Top Repositories
+# Top Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vastsa&repo=FileCodeBox)](https://github.com/vastsa/FileCodeBox)
 
-### About me
+# About me
 - 🔭 [https://github.com/vastsa](https://github.com/vastsa)
 - 💬 [https://www.lanol.cn](https://www.lanol.cn)
-### Connect With Me
+# Connect With Me
 - email :vast@tom.com
   
-
 <div align="center" >
 
-  
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
