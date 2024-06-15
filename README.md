@@ -3,7 +3,11 @@
 
 # Github Stats
 ![Anurag's GitHub status](https://github-readme-stats.vercel.app/api?username=vastsa&show_icons=true)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buyfakett/buyfakett/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buyfakett/buyfakett/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/buyfakett/buyfakett/output/github-contribution-grid-snake.svg">
+</picture>
 # Top Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vastsa&repo=FileCodeBox)](https://github.com/vastsa/FileCodeBox)
