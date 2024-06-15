@@ -1,6 +1,5 @@
 # Recently shot
 <img src="https://github.com/vastsa/vastsa/blob/main/shot.jpg?raw=true"/>
-<img src="https://cdn.nlark.com/yuque/0/2024/jpeg/1328158/1718467105478-9ee578e6-e913-4b08-896d-622b29f24580.jpeg"/>
 
 
 # Github Stats
