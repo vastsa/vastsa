@@ -1,4 +1,4 @@
-<pre style="float:center;" >
+<pre style="float:center;" align="center">
  _      __    __  _  
 | |    /  \  |  \| | 
 | |_  | /\ | | | ' | 
@@ -6,7 +6,7 @@
 </pre>
 
 # Recently shot
-<img src="https://img.065065.xyz/file/424f3a3be34ff6741928f.png"/>
+<img src="https://img.065065.xyz/file/424f3a3be34ff6741928f.png"  align="center"/>
 
 
 # Github Stats
