@@ -1,3 +1,10 @@
+<pre style="float:center;" >
+ _      __    __  _  
+| |    /  \  |  \| | 
+| |_  | /\ | | | ' | 
+|___| |_||_| |_|\__| 
+</pre>
+
 # Recently shot
 <img src="https://github.com/vastsa/vastsa/blob/main/shot.jpg?raw=true"/>
 
