@@ -6,7 +6,7 @@
 </pre>
 
 # Recently shot
-<img src="https://github.com/vastsa/vastsa/blob/main/shot.jpg?raw=true"/>
+<img src="https://img.065065.xyz/file/424f3a3be34ff6741928f.png"/>
 
 
 # Github Stats
