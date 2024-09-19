@@ -6,7 +6,7 @@
 </pre>
 
 # Recently shot
-<img src="https://img.065065.xyz/file/424f3a3be34ff6741928f.png"  align="center"/>
+<img src="https://img.aixk.net/7P06CT.webp"  align="center"/>
 
 
 # Github Stats
