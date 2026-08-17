@@ -2,9 +2,10 @@
 
 # Hi, I'm Lan 👋
 
-**Open-source builder · Full-stack developer**
+**Open-source builder · Full-stack developer · Local-first software**
 
-I build practical, self-hostable tools for everyday workflows.
+I build local-first and self-hosted tools for AI workflows, developer
+productivity, and everyday problems.
 
 用代码把真实需求变成简单、可靠、可持续维护的产品。
 
@@ -22,9 +23,12 @@ I build practical, self-hostable tools for everyday workflows.
 ## About me
 
 - 🧰 I turn repetitive workflows into focused open-source products.
-- 🎧 I'm currently building [BokeBox](https://github.com/vastsa/BokeBox),
-  a private multi-source AI podcast studio — videos, links, articles, and notes into spoken episodes.
-- 🔭 I'm also building [Orbit Browser](https://github.com/vastsa/OrbitBrowser),
+- 🖥️ I'm currently building [PI-Desktop](https://github.com/vastsa/pi-desktop),
+  a local-first desktop app for AI coding agents.
+- 🎧 I'm also building [BokeBox](https://github.com/vastsa/BokeBox),
+  a private multi-source AI podcast studio for turning videos, links, articles,
+  and notes into spoken episodes.
+- 🔭 I'm building [Orbit Browser](https://github.com/vastsa/OrbitBrowser),
   a local-first control plane for browser automation and AI agents.
 - 📦 I created [FileCodeBox](https://github.com/vastsa/FileCodeBox), a lightweight
   way to share files and text with a passcode.
@@ -33,7 +37,22 @@ I build practical, self-hostable tools for everyday workflows.
 - 🤝 Issues, pull requests, product feedback, and technical conversations are
   always welcome.
 
-## Featured work
+## Selected projects
+
+### [PI-Desktop](https://github.com/vastsa/pi-desktop)
+
+[![PI-Desktop stars](https://img.shields.io/github/stars/vastsa/pi-desktop?style=flat-square&logo=github&label=Stars)](https://github.com/vastsa/pi-desktop)
+[![PI-Desktop release](https://img.shields.io/github/v/release/vastsa/pi-desktop?include_prereleases&style=flat-square&label=Release)](https://github.com/vastsa/pi-desktop/releases/latest)
+
+A local-first desktop app for AI coding agents. Bring your own models, review
+file edits and shell commands, and keep sessions, settings, and API keys on
+your machine.
+
+`TypeScript` · `React` · `Electron` · `Rust` · `SQLite`
+
+[Source code](https://github.com/vastsa/pi-desktop) ·
+[Releases](https://github.com/vastsa/pi-desktop/releases) ·
+[简体中文](https://github.com/vastsa/pi-desktop/blob/main/README.zh-CN.md)
 
 ### [BokeBox](https://github.com/vastsa/BokeBox)
 
@@ -48,8 +67,7 @@ MCP-ready, and plugin-extensible.
 `TypeScript` · `Node.js` · `pnpm` · `MCP` · `Docker` · `LGPL-3.0`
 
 [Source code](https://github.com/vastsa/BokeBox) ·
-[Homepage](https://bokebox.aiuo.net) ·
-[Live site](https://bokebox.aiuo.net)
+[Project site](https://bokebox.aiuo.net)
 
 ### [FileCodeBox](https://github.com/vastsa/FileCodeBox)
 
@@ -85,7 +103,7 @@ repeatable automation tasks, run artifacts, and MCP-powered agents.
 - **Languages:** Python, TypeScript, JavaScript, Rust
 - **Backend:** FastAPI, Node.js, REST APIs, SQLite
 - **Frontend:** Vue, React, Vite, Tailwind CSS
-- **Desktop & automation:** Tauri, Chrome DevTools Protocol, MCP
+- **Desktop & automation:** Electron, Tauri, Chrome DevTools Protocol, MCP
 - **Delivery:** Docker, GitHub Actions, Linux
 
 ## More from me
