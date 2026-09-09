@@ -25,9 +25,6 @@ productivity, and everyday problems.
 - 🧰 I turn repetitive workflows into focused open-source products.
 - 🖥️ I'm currently building [PI-Desktop](https://github.com/vastsa/pi-desktop),
   a local-first desktop app for AI coding agents.
-- 🎧 I'm also building [BokeBox](https://github.com/vastsa/BokeBox),
-  a private multi-source AI podcast studio for turning videos, links, articles,
-  and notes into spoken episodes.
 - 🔭 I'm building [Orbit Browser](https://github.com/vastsa/OrbitBrowser),
   a local-first control plane for browser automation and AI agents.
 - 📦 I created [FileCodeBox](https://github.com/vastsa/FileCodeBox), a lightweight
@@ -53,21 +50,6 @@ your machine.
 [Source code](https://github.com/vastsa/pi-desktop) ·
 [Releases](https://github.com/vastsa/pi-desktop/releases) ·
 [简体中文](https://github.com/vastsa/pi-desktop/blob/main/README.zh-CN.md)
-
-### [BokeBox](https://github.com/vastsa/BokeBox)
-
-[![BokeBox stars](https://img.shields.io/github/stars/vastsa/BokeBox?style=flat-square&logo=github&label=Stars)](https://github.com/vastsa/BokeBox)
-[![BokeBox license](https://img.shields.io/github/license/vastsa/BokeBox?style=flat-square&label=License)](https://github.com/vastsa/BokeBox/blob/main/LICENSE)
-
-A private multi-source AI podcast studio. Drop in videos, links, articles, meeting
-notes, or drafts — BokeBox rewrites them into spoken scripts, voices them with a
-persona you own, and turns them into personal episodes with flashcards. Self-hosted,
-MCP-ready, and plugin-extensible.
-
-`TypeScript` · `Node.js` · `pnpm` · `MCP` · `Docker` · `LGPL-3.0`
-
-[Source code](https://github.com/vastsa/BokeBox) ·
-[Project site](https://bokebox.aiuo.net)
 
 ### [FileCodeBox](https://github.com/vastsa/FileCodeBox)
 
