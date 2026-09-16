@@ -66,20 +66,6 @@ account — like picking up a package from a locker.
 [Source code](https://github.com/vastsa/FileCodeBox) ·
 [Documentation](https://fcb-docs.aiuo.net)
 
-### [Orbit Browser](https://github.com/vastsa/OrbitBrowser)
-
-[![Orbit Browser stars](https://img.shields.io/github/stars/vastsa/OrbitBrowser?style=flat-square&logo=github&label=Stars)](https://github.com/vastsa/OrbitBrowser)
-[![Orbit Browser license](https://img.shields.io/github/license/vastsa/OrbitBrowser?style=flat-square&label=License)](https://github.com/vastsa/OrbitBrowser/blob/main/LICENSE)
-
-A local-first desktop control plane for isolated browser profiles, proxies,
-repeatable automation tasks, run artifacts, and MCP-powered agents.
-
-`Rust` · `Tauri 2` · `TypeScript` · `React` · `SQLite` · `Chrome DevTools Protocol`
-
-[Source code](https://github.com/vastsa/OrbitBrowser) ·
-[简体中文](https://github.com/vastsa/OrbitBrowser/blob/main/README.zh-CN.md) ·
-[Architecture](https://github.com/vastsa/OrbitBrowser/blob/main/docs/architecture.md)
-
 ## Toolbox
 
 - **Languages:** Python, TypeScript, JavaScript, Rust
